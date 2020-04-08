@@ -1,11 +1,11 @@
 # Site settings
 author: Steven Jasper
-title: 
+title: Adventures in Data Science with Steven
 header-img: img/home-bg.png
 email: steven.j.jasper1@gmail.com
 copyright_name: Steven Jasper
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Trek Through the Soup
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Luxorth1
