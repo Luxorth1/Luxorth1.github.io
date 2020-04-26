@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why did I start studying Data Science?"
-date:       2020-04-26 21:42:57 +0000
+date:       2020-04-26 17:42:58 -0400
 permalink:  why_did_i_start_studying_data_science
 ---
 
