@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How I learned to manage a Data Science team in 2 days"
-date:       2020-04-29 02:21:02 +0000
+date:       2020-04-28 22:21:03 -0400
 permalink:  how_i_learned_to_manage_a_data_science_team_in_2_days
 ---
 
