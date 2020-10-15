@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Balance Between Code and Statistics"
-date:       2020-10-15 16:50:09 +0000
+date:       2020-10-15 12:50:11 -0400
 permalink:  balance_between_code_and_statistics
 ---
 
